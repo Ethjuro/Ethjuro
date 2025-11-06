@@ -27,7 +27,7 @@
 <br>
 <div align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=ethjuro&theme=transparent&count_private=true&show_icons=true" alt="GitHub Stats">
-  <img width="430" src="https://streak-stats.demolab.com?user=ethjuro&theme=dark&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+  <img width="430" src="https://github-readme-streak-stats.herokuapp.com?user=ethjuro&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <hr>
