@@ -12,16 +12,22 @@
 
 <!---- Contact / Social links ---->
 <p align="center">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto%3Aethjuro%40ethjuro.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Discord-383e9c?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F672521122562048051" alt="Discord">
-  <img src="https://img.shields.io/badge/Portfolio-9c3838?style=for-the-badge&link=https%3A%2F%2Fethjuro.com" alt="Portfolio">
+  <a href="mailto:ethjuro@ethjuro.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto%3Aethjuro%40ethjuro.com" alt="Gmail">
+  </a>
+  <a href="https://discord.com/users/672521122562048051">
+    <img src="https://img.shields.io/badge/Discord-383e9c?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F672521122562048051" alt="Discord">
+  </a>
+  <a href="https://ethjuro.com">
+    <img src="https://img.shields.io/badge/Portfolio-9c3838?style=for-the-badge&link=https%3A%2F%2Fethjuro.com" alt="Portfolio">
+  </a>
 </p>
 
 <!---- GitHub stats ---->
 <br>
 <div align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=ethjuro&theme=transparent&count_private=true&show_icons=true" alt="GitHub Stats">
-  <img width="420" src="https://streak-stats.demolab.com?user=ethjuro&theme=dark&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+  <img width="430" src="https://streak-stats.demolab.com?user=ethjuro&theme=dark&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
 </div>
 
 <hr>
