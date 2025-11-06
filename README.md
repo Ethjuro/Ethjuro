@@ -1,6 +1,6 @@
 <!---- Animated greeting & short tagline ---->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=FF4B4B&duration=4000&lines=Hi+there!+I’m+Ethjurø" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=FF4B4B&duration=3000&lines=Hi+there!+I’m+Ethjurø" alt="Typing SVG">
 </h1>
 <h3 align="center">Full-Stack Developer · Genève · Transforming ideas into code</h3>
 
